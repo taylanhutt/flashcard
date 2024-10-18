@@ -1,0 +1,9 @@
+body {
+    background-color: bisque;
+    color: rgb(0, 0, 0);
+}
+footer {
+    background-color: black;
+    color: white;
+    bottom: 0;
+}
